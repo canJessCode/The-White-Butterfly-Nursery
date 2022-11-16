@@ -1,0 +1,87 @@
+body {
+    background-image: url("plants.webp");
+    background-size: auto;
+    
+    /* background-position: justify; */
+    /* margin-top: -100px; */
+    
+}
+
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 120px;
+    text-align: center;
+    /* margin-top: 200px; */
+    text-decoration: underline;
+    text-shadow: 4px 4px 4px #052505;
+    background-color: rgb(103, 137, 111);
+    color: rgb(207, 247, 225);
+    border-radius: 50px;
+    border-style:outset;
+    border-width: 6px;
+    border-color: rgb(196, 227, 209);
+    
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    background-color: rgb(103, 137, 111) ;
+    border-radius: 50px;
+    border-style: outset;
+    border-width: 6px;
+    margin-left: 500px;
+    text-shadow: 4px 4px 4px #d8e3d8;
+    border-color: rgb(196, 227, 209);
+    color: rgb(207, 247, 225);
+    text-shadow: 4px 4px 4px #052505;
+    width: 900px;
+}
+ 
+
+
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 600px;
+    margin-top: 200px;
+    background-color: rgb(103, 137, 111) ;
+    text-shadow: 4px 4px 4px #d8e3d8;
+    border-radius: 50px;
+    border-style:outset;
+    /* text-shadow: 4px 4px 4px #d8e3d8; */
+    border-color: rgb(196, 227, 209);
+    color: rgb(207, 247, 225);
+    text-shadow: 4px 4px 4px #052505;
+    width: 700px;
+}
+
+ p {
+    /* margin-top: 50px;
+    background-color: rgb(103, 137, 111) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text-align: center;
+   border-radius: 60px;
+   height: 150px; */ 
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 500px;
+    /* margin-top: 9px; */
+    background-color: rgb(103, 137, 111) ;
+    /* text-shadow: 4px 4px 4px #d8e3d8; */
+    border-radius: 50px;
+    border-style:outset;
+    border-color: rgb(196, 227, 209);
+    color: rgb(207, 247, 225);
+    /* text-shadow: 4px 4px 4px #052505; */
+    width: 900px;
+    text-shadow: 4px 4px 4px #052505;
+}
+
+
+
